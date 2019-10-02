@@ -1,0 +1,20 @@
+/////////////// Comando para ejecutar programa de c++////////////////////////
+
+g++ -std=c++11 -o ejecutable holaMundo.cpp
+
+
+
+/////////////// Codigo basico de c++ /////////////////////////
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    return 0;
+}
