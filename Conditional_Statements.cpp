@@ -12,7 +12,7 @@ int main()
 
    if(n>=1 && n<=9)
    {
-     if(n==1){
+    if(n==1){
        cout << "one" << endl;
      }else{
        if(n==2){
